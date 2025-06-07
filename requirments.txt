@@ -1,0 +1,14 @@
+import cv2
+import mediapipe as mp
+import numpy as np
+import time
+from scipy.spatial import distance as dist
+
+flask
+flask-socketio
+eventlet
+opencv-python
+mediapipe
+
+
+#pip install opencv-python mediapipe numpy scipy
